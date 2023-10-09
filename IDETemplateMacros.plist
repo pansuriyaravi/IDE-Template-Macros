@@ -4,12 +4,11 @@
 <dict>
 	<key>FILEHEADER</key>
 	<string>
-    //  ___FILENAME___
-    //  ___PACKAGENAME___
-    //
-    //  Created on ___DATE___.
-    //  ___COPYRIGHT___
-    //
-    </string>
+//  ___FILENAME___
+//  ___PACKAGENAME___
+//
+//  Created on ___DATE___.
+//  ___COPYRIGHT___
+//</string>
 </dict>
 </plist>
